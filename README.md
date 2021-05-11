@@ -1,32 +1,15 @@
 # TCP_SERVER
-It contains python codes for tcp communciation
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+### It contains python codes for tcp communciation by using thread mechanism.
 
-**This is bold text**
+### You can reach the codes directly from  [Python Code](https://pages.github.com/).
 
-In the words of Abraham Lincoln:
+# Requirements
 
-> Pardon my French
+- python3.x
+- thread
+- select
+- queue
+- threading
 
-
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-:EMOJICODE:.
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
-
+**for any problem , don't hesitate to contact me from** [Linkedin](https://www.linkedin.com/in/mntalhakilic/) :+1: :+1: 
