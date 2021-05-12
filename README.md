@@ -2,6 +2,12 @@
 
 ### It contains python codes for tcp communciation by using thread mechanism.
 
+# Source Code
+
+You can check the latest sources with the command:
+```
+git clone https://github.com/mntalha/TCP_Server.git
+```
 ### You can reach the codes directly from  [Python Code](https://github.com/mntalha/TCP_Server/blob/main/tcp_server.py).
 
 # Requirements
